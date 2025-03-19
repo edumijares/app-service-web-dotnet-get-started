@@ -4,7 +4,7 @@ platforms: dotnet
 author: tiagocostapt
 ---
 
-# ASP.NET sample for Azure App Service
+# ASP.NET sample for Azure App Service Eduardo
 
 This is an ASP.NET MVC web app that you can deploy to Azure App Service using Git. 
 
